@@ -42,9 +42,13 @@ foto das intellignet strings
 
 
 
+artefatos que chamaram minha atencao 
 
-
-
+lista:
+- 1
+- 2
+- 3
+- 4
 
 
 Initial Access
