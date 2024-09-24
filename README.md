@@ -51,6 +51,13 @@ lista:
 - 4
 
 
+Abri no dbg e abri o procmon
+
+filtro no procmon e executa o programa
+
+
+
+
 Initial Access
 Execution
 Persistence
