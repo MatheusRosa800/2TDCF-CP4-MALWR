@@ -10,27 +10,26 @@ Recebemos um malware direcionado para a FIAP e precisamos que você nos ajude na
 
 ## Analysts
 
-Analysis and reporting completed by Matheus Rosa Colombo
+Análise e report feito por Matheus Rosa Colombo
 
 
 ## Static Analysis
 
-Antes de tudo iniciei o processo de analise apartir da coleta de informações estaticas para obter melhor compreendimento do malware em si
-
+Antes de tudo iniciei o processo de analise apartir da coleta de informações estaticas para obter melhor compreendimento do malware.
 
 1.  Die
 
-ao jogar o malware no die é possivel ver que esta packeado 
+Ao jogar o malware no DIE é possivel ver que está packeado.
 
 foto do die 
 
-tirando com upx 
+### tirando com upx 
 
 ````upx.exe -d [arq]````
 
 2. 4N4L Detector
    
-utilizei o 4n4l detector para coletar mais informações 
+Utilizei o 4n4l detector para coletar mais informações 
 
 foto das informations 
 
@@ -50,13 +49,10 @@ lista:
 - 3
 - 4
 
-
-Abri no dbg e abri o procmon
-
-filtro no procmon e executa o programa
+Após pesquisar sobre as funcoes mais suspeitas e chamativas, tive a suspeita de se tratar de um malware que trabalha com injeção.
 
 
-
+# Dynamic Analysis
 
 Initial Access
 Execution
@@ -70,9 +66,7 @@ Collection
 
 ## Command and Control
 
-possivel c2 
-
-123.45.6.171:1337
+tcp://123.45.6.171:1337
 
 
 Exfiltration
