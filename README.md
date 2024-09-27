@@ -78,6 +78,11 @@ Para começar com a análise dinâmica iniciei o procmon e passei um filtro do .
 
 Dali, parti para pesquisa de algumas chaves de registro e outras informações que apareciam.
 
+# 2. Wireshark
+
+executei novamente o malware e filtrei no wireshark para ver algumas requisicoes, e tem apenas comunicações DNS com a URL do site da fiap.
+
+![image](https://github.com/user-attachments/assets/848c1952-2634-44af-88fc-0547e2dcd9f8)
 
 
 Initial Access
