@@ -134,13 +134,23 @@ Obtém o ID (identificador) do processo atual.
 
 Algumas funções destas encontrada são utilizada para **Injeção de processos**
 
+
+# 4. XDBG
+
+Alem de utilizar o IDA, procurei tambem em outro debugger.
+
 ## Requisição de API 
+
+Nas strings encontrei esse link de api que parecia estar incompleto. 
+
+Também encontrei nas STRINGS que há um "key="
+
+O palpite que tive é que ele incrementa essa api com a chave e o id.
 
 ![image](https://github.com/user-attachments/assets/ed1a7410-8a08-4e71-8d2a-03c1701410c0)
 ![image](https://github.com/user-attachments/assets/e50845e3-c69c-4049-b7a0-274cdcbbb9fe)
 
 
-O palpite que tive é que ele incrementa essa api com a chave e o id.
 
 # Initial Access
 Execution
