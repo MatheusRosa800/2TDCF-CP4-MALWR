@@ -85,6 +85,13 @@ executei novamente o malware e filtrei no wireshark para ver algumas requisicoes
 ![image](https://github.com/user-attachments/assets/848c1952-2634-44af-88fc-0547e2dcd9f8)
 
 
+#3. IDA
+
+
+![image](https://github.com/user-attachments/assets/b75885e9-9305-40f5-abbc-7dddecf722db)
+
+
+
 Initial Access
 Execution
 Persistence
