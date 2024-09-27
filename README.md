@@ -151,6 +151,13 @@ O palpite que tive é que ele incrementa essa api com a chave e o id.
 ![image](https://github.com/user-attachments/assets/e50845e3-c69c-4049-b7a0-274cdcbbb9fe)
 
 
+# Bypass
+
+Não estava conseguindo achar mais nada então decidi partir para uma estratégia mais bruta. Comecei a bypassar tudo.
+
+![image](https://github.com/user-attachments/assets/b2f9db2c-fead-4a25-8360-dfd7e8f77318)
+
+
 
 # Initial Access
 Execution
