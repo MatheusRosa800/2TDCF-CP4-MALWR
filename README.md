@@ -134,6 +134,12 @@ Obtém o ID (identificador) do processo atual.
 
 Algumas funções destas encontrada são utilizada para **Injeção de processos**
 
+## Requisição de API 
+
+![image](https://github.com/user-attachments/assets/ed1a7410-8a08-4e71-8d2a-03c1701410c0)
+![image](https://github.com/user-attachments/assets/e50845e3-c69c-4049-b7a0-274cdcbbb9fe)
+
+
 
 
 # Initial Access
