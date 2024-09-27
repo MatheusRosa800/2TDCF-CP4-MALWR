@@ -16,7 +16,7 @@ Análise e report feito por Matheus Rosa Colombo
 
 Antes de tudo iniciei o processo de analise apartir da coleta de informações estaticas para obter melhor compreendimento do malware.
 
-1.  Die
+# 1.  Die
 
 Ao jogar o malware no DIE é possivel ver que está packeado.
 
@@ -27,7 +27,7 @@ Ao jogar o malware no DIE é possivel ver que está packeado.
 
 ````upx.exe -d [arq]````
 
-2. 4N4L Detector
+# 2. 4N4L Detector
    
 Utilizei o 4n4l detector para coletar mais informações 
 
@@ -65,7 +65,7 @@ Utilizei o 4n4l detector para coletar mais informações
    - WinInet.dll
    - Winhttp.dll
    
-Após pesquisar sobre as funções mais suspeitas e chamativas, tive a suspeita de se tratar de um malware que trabalha com injeção e provavelmente um infostealer local.
+Após pesquisar sobre as funções mais suspeitas e chamativas, tive a suspeita de se tratar de um malware que trabalha com injeção e provavelmente um infostealer da máquina local.
 
 
 # Dynamic Analysis
@@ -75,25 +75,23 @@ Execution
 Persistence
 Privilege Escalation
 Defense Evasion
-Credential Access
 Discovery
 Lateral Movement
 Collection
+Exfiltration
+Impact
+Indicators
+Detections
+
+
+# Credential Access
+GetUserObjectInformationAUSER32.dll
+
+A função GetUserObjectInformationA na biblioteca USER32.dll é utilizada para obter informações sobre objetos do Windows que pertencem à interface gráfica do usuário (GUI), como janelas e desktops.
 
 ## Command and Control
 
-tcp://123.45.6.171:1337
-
-
-Exfiltration
-Impact
-Timeline
-Diamond Model
-Indicators
-Detections
-MITRE ATT&CK
-
-
+Possível c2: tcp://123.45.6.171:1337
 
 
 
