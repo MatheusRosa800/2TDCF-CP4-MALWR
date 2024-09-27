@@ -42,7 +42,6 @@ Utilizei o 4n4l detector para coletar mais informações
 ![image](https://github.com/user-attachments/assets/4a7fc4bf-671a-4701-b7ed-e78413f784fd)
 
 
-
 ## Artefatos que chamaram minha atenção:  
 
 1. Suspicious Functions:
@@ -90,7 +89,9 @@ executei novamente o malware e filtrei no wireshark para ver algumas requisicoes
 
 ![image](https://github.com/user-attachments/assets/b75885e9-9305-40f5-abbc-7dddecf722db)
 
+![image](https://github.com/user-attachments/assets/fbff2e64-60e5-4750-9119-bec564ca4de5)
 
+![image](https://github.com/user-attachments/assets/884aec79-6634-4e05-9d12-822a962bb616)
 
 Initial Access
 Execution
