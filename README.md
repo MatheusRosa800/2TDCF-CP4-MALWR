@@ -77,6 +77,9 @@ Para começar com a análise dinâmica iniciei o procmon e passei um filtro do .
 
 ![image](https://github.com/user-attachments/assets/04e51916-63b6-4ce2-bcd4-d3d38d8f290d)
 
+![image](https://github.com/user-attachments/assets/b9e55e1e-4885-475f-943d-f79e67d3ee53)
+
+
 Dali, parti para pesquisa de algumas chaves de registro e outras informações que apareciam.
 
 # 2. Wireshark
