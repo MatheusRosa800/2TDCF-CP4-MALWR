@@ -75,6 +75,8 @@ Para começar com a análise dinâmica iniciei o procmon e passei um filtro do .
 
 ![image](https://github.com/user-attachments/assets/8afc4e25-3c73-46b9-b975-9d27dbe67141)
 
+![image](https://github.com/user-attachments/assets/04e51916-63b6-4ce2-bcd4-d3d38d8f290d)
+
 Dali, parti para pesquisa de algumas chaves de registro e outras informações que apareciam.
 
 # 2. Wireshark
@@ -143,6 +145,8 @@ Exfiltration
 Impact
 Indicators
 Detections
+
+
 
 
 # Credential Access
