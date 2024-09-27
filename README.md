@@ -64,7 +64,7 @@ Utilizei o 4n4l detector para coletar mais informações
    - WinInet.dll
    - Winhttp.dll
    
-Após pesquisar sobre as funções mais suspeitas e chamativas, tive a suspeita de se tratar de um malware que trabalha com injeção e provavelmente um infostealer da máquina local.
+Após pesquisar sobre as funções mais suspeitas e chamativas, tive a suspeita de se tratar de um malware que trabalha com **injeção** e provavelmente um **infostealer** da máquina local.
 
 
 # Dynamic Analysis
