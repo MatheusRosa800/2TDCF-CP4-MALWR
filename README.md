@@ -157,7 +157,6 @@ Não estava conseguindo achar mais nada então decidi partir para uma estratégi
 
 ![image](https://github.com/user-attachments/assets/b2f9db2c-fead-4a25-8360-dfd7e8f77318)
 
-Quando vi isto decidi alterar o nome do arquivo para CP04. para ver se algo mudava mas nada mudou.
 
 # Initial Access
 Execution
