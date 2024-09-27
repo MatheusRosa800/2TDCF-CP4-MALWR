@@ -94,6 +94,43 @@ Algumas funcoes encontradas no IDA.
 
 ![image](https://github.com/user-attachments/assets/884aec79-6634-4e05-9d12-822a962bb616)
 
+### WriteProcessMemory:
+Escreve dados em um processo especificado na memória. Normalmente é usado para manipular a memória de outro processo.
+
+### HeapAlloc:
+Aloca um bloco de memória do heap. Este heap pode ser criado pelo processo que o utiliza, e a função retorna um ponteiro para o bloco alocado.
+
+### VirtualAllocEx:
+Aloca ou reserva um espaço de memória no contexto de outro processo (geralmente usado para injeção de código ou manipulação da memória de outro processo).
+
+### VirtualFreeEx:
+Libera ou desaloca memória que foi previamente reservada ou alocada com VirtualAllocEx. Também opera no contexto de outro processo.
+
+### GetProcessHeap:
+Obtém o identificador (handle) do heap do processo chamador. O heap é onde a memória dinâmica é armazenada durante a execução de um programa.
+
+### CreateProcess:
+Cria um novo processo e um novo thread, o que permite a execução de programas no sistema.
+
+### GetCurrentProcess:
+Retorna um pseudo-handle para o processo atual. Esse pseudo-handle não precisa ser fechado, pois se refere ao próprio processo que chama a função.
+
+### IsProcessorFeaturePresent:
+Verifica se uma determinada funcionalidade do processador está disponível no sistema atual, como suporte a instruções específicas.
+
+### FindResource:
+Localiza um recurso (como uma string, imagem, etc.) dentro de um módulo carregado.
+
+### SizeofResource:
+Retorna o tamanho de um recurso em bytes após ele ter sido localizado com FindResource.
+
+### GetCurrentProcessId:
+Obtém o ID (identificador) do processo atual.
+
+Algumas funções destas encontrada são utilizada para **Injeção de processos**
+
+
+
 Initial Access
 Execution
 Persistence
