@@ -158,21 +158,6 @@ Não estava conseguindo achar mais nada então decidi partir para uma estratégi
 ![image](https://github.com/user-attachments/assets/b2f9db2c-fead-4a25-8360-dfd7e8f77318)
 
 
-# Initial Access
-Execution
-Persistence
-Privilege Escalation
-Defense Evasion
-Discovery
-Lateral Movement
-Collection
-Exfiltration
-Impact
-Indicators
-Detections
-
-
-
 
 # Credential Access
 GetUserObjectInformationAUSER32.dll
