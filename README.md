@@ -169,6 +169,8 @@ A função GetUserObjectInformationA na biblioteca USER32.dll é utilizada para 
 Possível c2: tcp://123.45.6.171:1337
 
 
+## Conclusão 
 
+O malware analisado se trata de um infostealer com propriedades de injeção de código e locação de memória. 
 
 
