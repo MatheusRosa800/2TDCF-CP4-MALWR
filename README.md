@@ -70,6 +70,16 @@ Após pesquisar sobre as funções mais suspeitas e chamativas, tive a suspeita 
 
 # Dynamic Analysis
 
+# 1. Procmon
+
+Para começar com a análise dinâmica iniciei o procmon e passei um filtro do .exe.
+
+![image](https://github.com/user-attachments/assets/8afc4e25-3c73-46b9-b975-9d27dbe67141)
+
+Dali, parti para pesquisa de algumas chaves de registro e outras informações que apareciam.
+
+
+
 Initial Access
 Execution
 Persistence
